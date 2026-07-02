@@ -6,5 +6,7 @@ public class Tapsiriq12 {
         String tamAd = "nigar əliyeva";
 
         int bosluqIndeksi = tamAd.indexOf(" ");
+    }
+
 }
 // bu tapşırığı başa düşmədim
