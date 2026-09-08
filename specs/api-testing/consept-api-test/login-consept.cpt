@@ -1,0 +1,12 @@
+Created by anarabbas on 08.09.26
+
+This is a concept file with following syntax for each concept.
+# Login Test
+* Set base Url to "https://anarabbas.com/labs/api-lab"
+* Initalize request spesification
+* Add Endpoint "/auth/login"
+* Api e GET request gönder "https://api.anarabbas.com/users"
+* Status kodunu "200" olmalıdır
+* Json cavabında "id" deyeri boş olmamlıdır
+* Json cavabında "email" deyeri "testdemo@gmail.com" beraberdir
+* Response cavab müddeti "3000" milliSaniyeden az olmalıdır
